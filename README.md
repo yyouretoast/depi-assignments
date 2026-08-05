@@ -8,3 +8,6 @@ Repository for assignment submissions in the Digital Egypt Pioneers Initiative (
   * Advanced Python refresher (Data structures, OOP, Decorators, Generators, Lambda/Map/Filter).
 * **Week 2 - Session 3**: [Week_02/Playbook_Assignment.ipynb](./Week_02/Playbook_Assignment.ipynb)
   * Decoding parameters experiment notebook (Ticket Tagger, Reply Drafter, Campaign Brainstormer).
+* **Week 3 - Session 1**: [Week_03/Module3_Session1_Assignment.ipynb](./Week_03/Module3_Session1_Assignment.ipynb)
+  * Model Selection Autopsy (Architecture audit, parameter/memory budget, latency benchmarks, and CTO recommendation memo).
+
